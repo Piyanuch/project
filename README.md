@@ -13,6 +13,5 @@ This is a simple chat demo for socket.io and Android. You can connect to [chat.s
 
 http://socket.io/blog/native-socket-io-and-android/
 
-## License
 
-MIT
+
